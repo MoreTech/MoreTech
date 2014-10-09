@@ -1,4 +1,4 @@
 MoreTech
 ========
 
-Just a test
+Not Just a test
