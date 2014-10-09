@@ -5,5 +5,5 @@ function TextEnRouge($text) {
 }
 
 function TextEnBleu($text) {
-	echo "<div style='color:bleu' >$text</div>";
+	echo "<div style='color:blue' >$text</div>";
 }
