@@ -3,3 +3,7 @@
 function TextEnRouge($text) {
 	echo "<div style='color:red' >$text</div>";
 }
+
+function TextEnBleu($text) {
+	echo "<div style='color:bleu' >$text</div>";
+}
